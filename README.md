@@ -1,6 +1,6 @@
 # BANK REST API
 
-## Quick Start Using Pipenv
+## Quick Start
 
 ``` bash
 $ virtualenv env
