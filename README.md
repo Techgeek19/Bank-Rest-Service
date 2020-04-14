@@ -26,6 +26,6 @@ python3 manage.py runserver
 
 ## Endpoints
 
-* http://localhost:8000/bankapi/<ifsccode>
+* http://localhost:8000/bankapi/[Ifsc]/
 
-* http://localhost:8000/bankapi/<bank-name>/<city>
+* http://localhost:8000/bankapi/[Bank Name]/[city]
