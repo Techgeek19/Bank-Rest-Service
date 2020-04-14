@@ -19,7 +19,7 @@ $ pip3 install -r requirements.txt
 'PORT': '5432',
 
 $ python manage.py makemigrations
-$ python manage,py migrate
+$ python manage.py migrate
 
 # Run Server (http://localhst:8000)
 python3 manage.py runserver
