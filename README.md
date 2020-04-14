@@ -3,8 +3,9 @@
 ## Quick Start Using Pipenv
 
 ``` bash
-# Activate venv
 $ virtualenv env
+
+# Activate venv
 $ source env/bin/activate
 
 # Install requirements
@@ -26,6 +27,6 @@ python3 manage.py runserver
 
 ## Endpoints
 
-* http://localhost:8000/bankapi/[Ifsc]/
+* http://localhost:8000/bankapi/[Bank_Ifsc]/
 
-* http://localhost:8000/bankapi/[Bank Name]/[city]
+* http://localhost:8000/bankapi/[Bank_Name]/[Bank_City]
